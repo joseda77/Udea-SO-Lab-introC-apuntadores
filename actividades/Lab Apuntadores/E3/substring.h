@@ -1,0 +1,1 @@
+char *obtenerSubcadena(char *array, int index);

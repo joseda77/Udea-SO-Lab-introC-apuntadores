@@ -1,0 +1,1 @@
+int contarCaracter(char *array, char ch);
